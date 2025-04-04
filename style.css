@@ -1,0 +1,101 @@
+#Principal{
+    background-color: rgb(111, 87, 218);
+    display: flex;
+    flex-direction: column; 
+    padding: 60px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+.info{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.tanto{
+    font-size: 15px;
+
+}
+p{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+#menu2{
+    display: flex;
+    gap: 30px;
+
+}
+
+.conteudo{
+    color: white;
+}
+
+.button{
+    color: aqua;
+    background-color: blue;
+}
+
+.cabeçalho{
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+}
+    
+.menu3 {
+    display: flex;
+    font-size: 18px;
+    justify-content: 
+
+}
+
+
+.cards{  
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    
+
+}
+
+.menu4{
+    display: flex;
+    
+}
+.menu4texto{
+    display: flex;
+    font-size: 15px;
+    gap: 5;
+}
+
+.funcionalidades{
+    display: flex;
+    justify-content: center;
+  
+}
+  
+.rodape{
+    background-color: rgb(111, 87, 218);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.paragrafo{
+    color: rgb(129, 233, 26);
+    font-size: 18px;
+}
+
+.h2{
+    font-size: 40px;
+}
+
+.pe{
+    font-size: 10px;
+}
